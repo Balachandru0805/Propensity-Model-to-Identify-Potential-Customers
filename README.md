@@ -64,6 +64,7 @@ The insurance company has provided you with a historical data set (train.csv). T
     6. Conclusion
 
 ## Machine Learning Models Applied
+Since the dataset response variable follows binary classification. I have choosen Naive Bayes, Support Vector Machine and Random Forest Classifier models for managing complexity of higher number of input features.
 
 - Naive Bayes Classifier - 77% Accuracy
 - Support Vector Machine - 87% Accuracy
