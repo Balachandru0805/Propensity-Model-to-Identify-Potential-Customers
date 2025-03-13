@@ -5,6 +5,7 @@ Propensity modeling is a method that aims to forecast the chance that individual
 
 
 ## Data Source Information
+The insurance company has provided you with a historical data set (train.csv). The company has also provided you with a list of potential customers to whom to market (test.csv). From this list of potential customers, you need to determine yes/no whether you wish to market to them.
 
 - custAge - The age of the customer.
 - prefession - Type of job.
