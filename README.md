@@ -38,6 +38,7 @@ Propensity modeling is a method that aims to forecast the chance that individual
 - seaborn==0.13.2
 - scipy==1.14.1
 - sklearn-compat==0.1.3
+- pickleshare==0.7.5
 
 ## Machine Learning Model Operations Performed
     1. Import Libraries
