@@ -70,6 +70,12 @@ Since the dataset response variable follows binary classification. I have choose
 - Support Vector Machine - 87% Accuracy
 - Random Forest Classifier - 88% Accuracy
 
+## Usecases
+- **Retail and E-commerce:** Predict whether a customer is likely to make a purchase after browsing a website or engaging with a marketing campaign.
+- **Banking and Finance:** Predict whether a customer is likely to purchase investment products like stocks, bonds, or mutual funds based on their financial behavior.
+- **Telecommunications:** Identify customers who are likely to adopt new telecom services like streaming or additional data plans.
+- **Healthcare:** Predict whether a patient is likely to schedule an appointment or follow through with a recommended procedure.
+
 ## Conclusion
 Completed the Exploratory data analysis, data preprocessing, balancing the data and applied various Machine Learning models of Naive Bayes (77% accuracy), Support Vector Machine (87% accuracy) and Random Forest Classifier (89% accuracy). Used the best Random Forest model to get the result of test dataset.
 
