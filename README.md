@@ -61,6 +61,7 @@ The insurance company has provided you with a historical data set (train.csv). T
     - 5.1 - Reading and undestanding the test data
     - 5.2 - Preprocessing the test data
     - 5.3 - Predicting the test data result
+    - 5.4 - Saving the trained Machine Learning models
     6. Conclusion
 
 ## Machine Learning Models Applied
